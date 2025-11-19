@@ -1,5 +1,5 @@
 # Extra Mix Nodes
-Blender 4.x addon that adds additional Mix nodes to the Shader Editor, with support for blending more than just 2 textures.
+Blender 4.x and 5.x addon that adds additional Mix nodes to the Shader Editor, with support for blending more than just 2 textures.
 
 ![image](https://github.com/theanine3D/extra-mix-nodes/assets/88953117/d009587b-a4dc-479c-a8a7-11b201177cb5)
 
